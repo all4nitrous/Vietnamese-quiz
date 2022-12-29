@@ -59,11 +59,11 @@ let questions = [
         choice3: "Yên lặng",
         choice4: "Nhanh nhẹn",
         answer: 3,
-    }
+    },
 ]
 
 const SCORE_POINTS = 100
-const MAX_QUESTIONS = 4
+const MAX_QUESTIONS = 6
 
 startGame = () => {
     questionCounter = 0
